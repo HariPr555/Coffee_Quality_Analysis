@@ -124,3 +124,49 @@ The Coffee Quality Data from CQI consists of 206 records and includes 31 feature
       
 - **Impact of Defects on Total Cup Points by Processing Method**
     - There is a noticeable inverse correlation between defects and total cup points. As defects increase, total cup points decrease, especially for methods like Wet Hulling and Semi-Lavado.
+  
+# Regional Analysis
+- **Comparison of Average Coffee Quality per KG by Continent**
+    - Africa leads in terms of average coffee quality per KG, followed closely by North America and Asia, with South America slightly trailing. This indicates that Africa has maintained consistency in high-quality coffee production, which correlates with their well-established farming techniques and favorable climate.
+      
+- **Variety Distribution by Country**
+    - Colombia and Brazil dominate the coffee variety distribution landscape, followed by countries in Central America and Southeast Asia. The diversity of varieties is important for catering to different market tastes, with Latin American countries showing significant contribution.
+      
+- **Production of Coffee Beans by Country**
+    - Ethiopia and Brazil continue to be the top producers, with Ethiopia showing particularly strong growth in 2023 compared to 2022. Central American and African countries show stable production.
+
+# Adhoc Analysis
+- **Average Coffee Quality by Altitude Range**
+    - Coffee grown at higher altitudes (above 2000m) shows the best quality, with the highest average cup points, while lower altitudes produce slightly lower scores.
+      
+- **Total Defects by Moisture Range**
+    - Beans with 11-12% moisture content have the most defects, indicating that moisture control is crucial for minimizing defects.
+      
+- **Total Defects by Processing Method**
+    - The Washed/Wet method shows the highest defect count, while Natural/Dry has fewer, suggesting certain methods are more prone to defects.
+
+ - **Total Defects by Year**
+    - Defects decreased from 2022 to 2023, indicating improvements in coffee quality management over time.
+
+# Insights
+- Aroma, Flavor, Aftertaste, Body and Acidity are key attributes that impact Coffee quality.
+- The “Double Anaerobic Washed” and “Honey, Mossto” processing methods consistently produce high-quality coffee, as evidenced by their high scores across all sensory attributes.
+- The “Castillo” and “Red Bourbon” varieties consistently produce high-quality coffee, as evidenced by their high scores across all sensory attributes.
+- Africa has the best average coffee quality score suggesting that they have optimized their production and processing methods.
+- The wide range of coffee varieties in Colombia, Guatemala, and Taiwan contributes to their high-quality scores.
+- Regions in high altitude produces good coffee quality scores.
+- Bean with moisture range more than 10% have more defects.
+- Wet washed bean has more defects.
+
+# Recommendations
+- **Focus on Higher Altitude Regions**: Coffee grown above 1500m generally has higher quality scores. Producers should consider sourcing beans from these regions to improve overall cup points.
+- **Control Moisture Content**: Reducing moisture content, especially keeping it below 11%, can help minimize defects and enhance the quality of the beans.
+- O**ptimize Processing Methods**: Given the high defect rate in the Washed/Wet method, transitioning to more controlled or alternative processing methods like Natural/Dry could improve quality.
+- **Monitor Defect Trends**: Continue tracking and reducing defects year over year. Regular audits of processing methods and environmental conditions can help maintain and improve coffee quality further.
+
+# Future Scope
+- **Expand Dataset**: Adding more recent data or expanding to include environmental variables (like climate and soil conditions) could provide deeper insights.
+- **Predictive Analysis**: Machine learning techniques could be used to predict coffee quality based on sensory attributes and processing methods.
+- **Sustainability Focus**: Addressing the steep drop in production shown in 2023 through sustainability initiatives and supply chain optimization could help stabilize coffee farming.
+
+
