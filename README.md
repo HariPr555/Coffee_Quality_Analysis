@@ -99,3 +99,28 @@ The Coffee Quality Data from CQI consists of 206 records and includes 31 feature
       
 - **Processing Methods Distribution across Countries**
     - This pie chart breaks down the coffee processing methods used in various countries. The most common method is Washed/Wet (124 occurrences), followed by Natural/Dry (46 occurrences). Other methods like Pulped Natural/Honey and specialized techniques (Anaerobic, Double Carbonic Maceration) are used less frequently.
+
+# Sensory Attribute Analysis I
+- **Comparison of Sensory Attributes with Total Cup points**
+    - Shows how different sensory attributes correlate with the total cup points. Attributes like Flavor and Aftertaste show a strong positive correlation with overall cup points, while Uniformity has a weaker correlation.
+      
+- **Sensory Attributes Scatter plot**
+    - These visuals show the relationship between total cup points and individual sensory attributes like Flavor, Balance, Aftertaste, and Acidity. The plots help identify patterns and strength of associations between sensory scores and overall performance.
+
+# Sensory Attribute Analysis II
+- **Variety vs. Total Cup Points and Sensory Attributes**
+    - This table provides an overview of different coffee varieties and their corresponding total cup points and individual sensory attributes such as acidity, aftertaste, and aroma. This helps identify the highest-performing varieties based on different sensory criteria. For example, Castillo has the highest total cup points (89.33) and excellent performance in categories like Sweetness and Clean Cup.
+
+# Sensory Attribute Analysis III
+- **Processing Method vs. Total Cup Points and Sensory Attributes**
+    - Double Anaerobic Washed and Semi-Washed methods produce the highest cup points, with strong sensory attributes in terms of sweetness, flavor, and body. The Semi-Lavado method, however, results in lower scores.
+
+# Defect Analysis
+- **Distribution of Category I and II Defects by Region**
+    - North America has a high rate of Category II defects, indicating that their coffee could be impacted by factors like poor processing or post-harvest handling issues. Africa, despite its high quality, has significant Category I defects.
+      
+- **Total Defects vs Variety**
+    - Caturra, Catuai, and Bourbon varieties show the highest defects. These popular varieties need more careful handling, especially in terms of post-harvest processes.
+      
+- **Impact of Defects on Total Cup Points by Processing Method**
+    - There is a noticeable inverse correlation between defects and total cup points. As defects increase, total cup points decrease, especially for methods like Wet Hulling and Semi-Lavado.
