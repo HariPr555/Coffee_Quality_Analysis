@@ -155,7 +155,7 @@ The Coffee Quality Data from CQI consists of 206 records and includes 31 feature
 ## Recommendations
 - **Focus on Higher Altitude Regions**: Coffee grown above 1500m generally has higher quality scores. Producers should consider sourcing beans from these regions to improve overall cup points.
 - **Control Moisture Content**: Reducing moisture content, especially keeping it below 11%, can help minimize defects and enhance the quality of the beans.
-- O**ptimize Processing Methods**: Given the high defect rate in the Washed/Wet method, transitioning to more controlled or alternative processing methods like Natural/Dry could improve quality.
+- **Optimize Processing Methods**: Given the high defect rate in the Washed/Wet method, transitioning to more controlled or alternative processing methods like Natural/Dry could improve quality.
 - **Monitor Defect Trends**: Continue tracking and reducing defects year over year. Regular audits of processing methods and environmental conditions can help maintain and improve coffee quality further.
 
 ## Future Scope
