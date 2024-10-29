@@ -2,25 +2,25 @@
 This report provides a detailed assessment of coffee quality through the use of Power BI, emphasizing the critical role of sensory attributes, coffee varieties, and processing methods. By analyzing these factors, the report uncovers their impact on cup point ratings and overall quality. The insights derived aim to guide producers in refining their practices and improving product consistency. Ultimately, this analysis supports the pursuit of higher quality standards in the competitive coffee market.
 
 ## Summary
-![CQA_Summary](https://github.com/user-attachments/assets/4aca3c06-7173-40da-bfbf-12444b2ae8d6)
+![image](https://github.com/user-attachments/assets/3dcc0454-6edf-4c1f-ba21-390647d1de1d)
 
 ## Sensory Attributes Analysis I
-![CQA_SAA_1](https://github.com/user-attachments/assets/f0696935-6a4a-4479-885e-17c3cff06db9)
+![image](https://github.com/user-attachments/assets/71e2377d-2d1c-4360-b51e-a20b08fd70a2)
 
 ## Sensory Attributes Analysis II
-![CQA_SSA_2](https://github.com/user-attachments/assets/8a5e2fbb-3505-4ea6-b64b-60815ecede49)
+![image](https://github.com/user-attachments/assets/8498bcf4-5d8b-47ce-81f1-b90a76fde7f3)
 
 ## Sensory Attributes Analysis III
-![CQA_SSA_3](https://github.com/user-attachments/assets/7750c544-1e3a-464c-8d7d-b24ccbec4304)
+![image](https://github.com/user-attachments/assets/9da0a8a0-417b-4cf2-a86e-7574a5515588)
 
 ## Defect Analysis
-![CQA_DA](https://github.com/user-attachments/assets/ff9a78bb-193a-41d8-a7a5-84ce3d439d73)
+![image](https://github.com/user-attachments/assets/dd6e8c9d-221b-42a4-93f4-e14f639bceb6)
 
 ## Regional Analysis
-![CQA_RA](https://github.com/user-attachments/assets/300941b2-5d26-408c-b22a-d0b951bdfc45)
+![image](https://github.com/user-attachments/assets/8554e9ad-770b-4222-8fb2-d6f7dd673e29)
 
 ## Adhoc Analysis
-![CQA_AA](https://github.com/user-attachments/assets/0a688034-ba81-45a3-b724-f20931f91525)
+![image](https://github.com/user-attachments/assets/04bb7da3-40b8-4162-b852-631f651bcfcf)
 
 ## Background
 The Coffee Quality Institute (CQI) is a non-profit organization that works to improve the quality and value of coffee worldwide. It was founded in 1996 and has its headquarters in California, USA. CQI's mission is to promote coffee quality through a range of activities that include research, training, and certification programs. The organization works with coffee growers, processors, roasters, and other stakeholders to improve coffee quality standards, promote sustainability, and support the development of the specialty coffee industry.
