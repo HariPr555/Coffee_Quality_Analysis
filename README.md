@@ -1,25 +1,28 @@
 # Coffee_Quality_Analysis
 This report provides a detailed assessment of coffee quality through the use of Power BI, emphasizing the critical role of sensory attributes, coffee varieties, and processing methods. By analyzing these factors, the report uncovers their impact on cup point ratings and overall quality. The insights derived aim to guide producers in refining their practices and improving product consistency. Ultimately, this analysis supports the pursuit of higher quality standards in the competitive coffee market.
 
-## Summary
+## Dashboard
+Please check it out !! [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDk1OTViYzEtYjIxYS00YzBkLTg3MTMtMzQ3OWE2ODZhMGEwIiwidCI6ImVhOWI2YmUyLTU2ZjMtNGNhNS1iN2M2LWYyMDg3NmQ2YzA3MSJ9)
+
+### Summary
 ![image](https://github.com/user-attachments/assets/3dcc0454-6edf-4c1f-ba21-390647d1de1d)
 
-## Sensory Attributes Analysis I
+### Sensory Attributes Analysis I
 ![image](https://github.com/user-attachments/assets/71e2377d-2d1c-4360-b51e-a20b08fd70a2)
 
-## Sensory Attributes Analysis II
+### Sensory Attributes Analysis II
 ![image](https://github.com/user-attachments/assets/8498bcf4-5d8b-47ce-81f1-b90a76fde7f3)
 
-## Sensory Attributes Analysis III
+### Sensory Attributes Analysis III
 ![image](https://github.com/user-attachments/assets/9da0a8a0-417b-4cf2-a86e-7574a5515588)
 
-## Defect Analysis
+### Defect Analysis
 ![image](https://github.com/user-attachments/assets/dd6e8c9d-221b-42a4-93f4-e14f639bceb6)
 
-## Regional Analysis
+### Regional Analysis
 ![image](https://github.com/user-attachments/assets/8554e9ad-770b-4222-8fb2-d6f7dd673e29)
 
-## Adhoc Analysis
+### Adhoc Analysis
 ![image](https://github.com/user-attachments/assets/04bb7da3-40b8-4162-b852-631f651bcfcf)
 
 ## Background
